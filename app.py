@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import yaml
+import pyYAML
 from yaml.loader import SafeLoader
 import streamlit_authenticator as stauth
 from PyPDF2 import PdfReader
