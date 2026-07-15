@@ -1,6 +1,6 @@
 streamlit
 pandas
-pyYAML
+PyYAML
 streamlit-authenticator
 PyPDF2
 scikit-learn
