@@ -1,0 +1,6 @@
+streamlit
+pandas
+pyyaml
+streamlit-authenticator
+PyPDF2
+scikit-learn

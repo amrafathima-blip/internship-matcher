@@ -1,0 +1,18 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key_to_sign_cookies
+  name: my_app_cookie
+credentials:
+  usernames:
+    admin123:
+      email: amrafathima@amityonline.com
+      first_name: Amra
+      last_name: Fathima
+      logged_in: false
+      password: $2b$12$47FCAMoWGveoyvka1TYTDOrVlJh.sEiU7kfUDkx8v2Ewgctw7lWLO
+      password_hint: '123'
+      roles: null
+    recruiter_guest:
+      email: guest@example.com
+      name: Guest Recruiter
+      password: $2b$12$Kst8/uN60Z93H.G5Z.Hn3Omv51IesfP3rGjIe3fR.4h3vB6gGk6qy
